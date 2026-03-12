@@ -2,9 +2,10 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "jomanez1.github.io.Metromaestro.twa",
+        "package_name": "jomanez1.github.io.twa",
         "sha256_cert_fingerprints": ["CA:AF:81:C9:E7:AD:98:3A:4F:81:E0:3A:87:B8:09:A4:DD:8E:33:7C:37:35:3A:F0:F7:28:4A:D9:EA:44:26:6F"]
       }
     }]
+
 
 
