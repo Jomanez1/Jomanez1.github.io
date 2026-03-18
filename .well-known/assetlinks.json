@@ -10,7 +10,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "jomanez1.github.io.twa",
+        "package_name": "jomanez1.github.io.mitiempo.twa",
         "sha256_cert_fingerprints": ["2A:6F:2B:16:B3:71:D6:75:DE:90:2A:E2:9C:19:8E:40:FB:6A:DB:05:42:15:5C:3B:71:60:C1:69:A3:8B:68:8C"]
       }
     }]
