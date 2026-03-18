@@ -5,7 +5,7 @@
         "package_name": "jomanez1.github.io.twa",
         "sha256_cert_fingerprints": ["F4:A9:F1:F9:6A:6F:9D:EE:81:71:67:F6:39:B5:00:8C:89:FA:B5:04:44:F6:81:D2:C9:46:51:85:5A:3A:E7:C9"]
       }
-    }
+    },
 {
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
