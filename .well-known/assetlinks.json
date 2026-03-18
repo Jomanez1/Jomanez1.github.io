@@ -5,6 +5,14 @@
         "package_name": "jomanez1.github.io.twa",
         "sha256_cert_fingerprints": ["CA:AF:81:C9:E7:AD:98:3A:4F:81:E0:3A:87:B8:09:A4:DD:8E:33:7C:37:35:3A:F0:F7:28:4A:D9:EA:44:26:6F"]
       }
+    }
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "jomanez1.github.io.twa",
+        "sha256_cert_fingerprints": ["2A:6F:2B:16:B3:71:D6:75:DE:90:2A:E2:9C:19:8E:40:FB:6A:DB:05:42:15:5C:3B:71:60:C1:69:A3:8B:68:8C"]
+      }
     }]
 
 
