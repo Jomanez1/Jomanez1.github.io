@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "jomanez1.github.io.mitiempo.twa",
-      "sha256_cert_fingerprints": ["F3:FF:FD:BE:82:77:67:09:7B:A2:C5:38:42:12:B7:C5:84:7F:6A:F0:7B:0D:A7:C1:1A:32:67:4D:C5:65:B5:9D"]
+      "sha256_cert_fingerprints": ["8C:2B:DC:7C:1B:71:1A:44:CD:BB:D0:A1:97:20:30:DC:FB:CE:22:54:BC:C1:DE:94:C1:53:5F:85:F6:4E:6C:F8"]
     }
   }
 ]
