@@ -27,7 +27,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "jomanez1.github.io.divertiviaje.twa",
+      "package_name": "jomanez1.github.io.divertiviajes.twa",
       "sha256_cert_fingerprints": ["01:5F:17:C4:0D:09:64:F0:D0:E5:E6:3F:9B:E6:D1:18:71:F7:21:78:EA:7D:D1:B6:FC:01:2A:13:F2:3B:11:23"]
     }
   }
